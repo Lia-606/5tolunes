@@ -1,0 +1,23 @@
+{
+  "name": "nodeprueba",
+  "version": "1.0.0",
+  "description": "pruebas",
+  "homepage": "https://github.com/Lia-606/5tolunes.git",
+  "bugs": {
+    "url": "https://github.com/Lia-606/5tolunes.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lia-606/5tolunes.git"
+  },
+  "license": "ISC",
+  "author": "Lia",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
